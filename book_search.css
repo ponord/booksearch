@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+.container { width: 50%; margin: 0 auto; text-align: center; }
+form { margin-bottom: 20px; }
+#results { margin-top: 20px; }
+.book { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
